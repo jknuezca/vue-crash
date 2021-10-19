@@ -1,4 +1,4 @@
-# Vue Crash Course (Task Tracker)
+# Vue (Task Tracker)
 ## Project setup
 
 ```
